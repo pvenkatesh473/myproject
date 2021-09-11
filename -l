@@ -1,0 +1,91 @@
+[33mcommit 99ebc6633b0976f013bca93887c0e8523784cbab[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 00fe453 e08d98e
+Author: pvenkatesh473 <90150815+pvenkatesh473@users.noreply.github.com>
+Date:   Thu Sep 9 08:25:52 2021 +0530
+
+    Merge pull request #2 from pvenkatesh473/feature
+    
+    featurexy added
+
+[33mcommit e08d98ef90f0dd8d415237b3394e9d1fe64da2c2[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: root <root@ip-172-31-9-235.ec2.internal>
+Date:   Thu Sep 9 02:54:47 2021 +0000
+
+    featurexy added
+
+[33mcommit 00fe453621e8f31ddf114e4aff184eb85f498f3d[m
+Merge: cbcf32f 65501d4
+Author: pvenkatesh473 <90150815+pvenkatesh473@users.noreply.github.com>
+Date:   Thu Sep 9 08:20:39 2021 +0530
+
+    Merge pull request #1 from pvenkatesh473/defect
+    
+    Defect fixed
+
+[33mcommit 65501d4773393e6d86c673c006c1dc7621fc4061[m[33m ([m[1;31morigin/defect[m[33m)[m
+Author: root <root@ip-172-31-4-22.ec2.internal>
+Date:   Thu Sep 9 02:48:01 2021 +0000
+
+    Defect fixed
+
+[33mcommit cbcf32f60384f231cd448ae708c86bc651c01911[m
+Merge: 294f543 66aaf66
+Author: pvenkatesh473 <pvenkatesh473@gmail.com>
+Date:   Wed Sep 8 01:58:31 2021 +0000
+
+    resolved conflict
+
+[33mcommit 294f54303379a0ee6234e5dcfc36308cd720c99c[m
+Author: pvenkatesh473 <pvenkatesh473@gmail.com>
+Date:   Wed Sep 8 01:54:11 2021 +0000
+
+    comitted new line
+
+[33mcommit 66aaf668906007cf3a0fe3c7d7ed78e96e482eab[m
+Author: pvenkatesh473 <pvenkatesh473@gmail.com>
+Date:   Wed Sep 8 01:49:37 2021 +0000
+
+    updated 3.java by dev2
+
+[33mcommit 411f8cbf979d09c4b5b570862b77cd01c2afa557[m
+Author: pvenkatesh473 <pvenkatesh473@gmail.com>
+Date:   Wed Sep 8 01:46:30 2021 +0000
+
+    modified 3.java file
+
+[33mcommit 854c9a2990b0676aaf16aa430511c77d62c29a7d[m
+Author: pvenkatesh473 <pvenkatesh473@gmail.com>
+Date:   Wed Sep 8 01:43:58 2021 +0000
+
+    added new file 3.java
+
+[33mcommit 7b92769311b26de90c554486bc62f2b5b3af4556[m
+Merge: c2a74e2 7fa8734
+Author: root <root@ip-172-31-0-167.ec2.internal>
+Date:   Tue Sep 7 02:03:28 2021 +0000
+
+    resolved conflicts
+
+[33mcommit c2a74e2c7e9d4e58dc668ade124795fceb12e7fb[m
+Author: root <root@ip-172-31-0-167.ec2.internal>
+Date:   Tue Sep 7 01:56:22 2021 +0000
+
+    modified 1.java from dev2
+
+[33mcommit 7fa87340956ea7962086d30cbc67352e9ae0b2f2[m
+Author: pvenkatesh473 <pvenkatesh473@gmail.com>
+Date:   Tue Sep 7 01:53:56 2021 +0000
+
+    modified 1.java from dev1
+
+[33mcommit 2e26252d15742057d04aeed13fc6c0a66dbe3c9f[m
+Author: root <root@ip-172-31-0-167.ec2.internal>
+Date:   Tue Sep 7 01:44:41 2021 +0000
+
+    comitted dev2.txt
+
+[33mcommit 4ea2c56b4808834ac808442fe8c32731b1ae7a89[m
+Author: pvenkatesh473 <pvenkatesh473@gmail.com>
+Date:   Tue Sep 7 01:11:44 2021 +0000
+
+    Test Files
